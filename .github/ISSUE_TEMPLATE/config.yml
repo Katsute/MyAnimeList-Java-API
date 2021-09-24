@@ -2,18 +2,18 @@ blank_issues_enabled: false
 contact_links:
   - name: Reporting an issue on the GitHub app
     about: You must use a browser to use issue forms
-    url: https://github.com/Katsute/Mal4J/discussions/198
+    url: https://github.com/KatsuteDev/Mal4J/discussions/198
   - name: Known Issues
     about: Certain issues are caused by the MyAnimeList API and not this library, check here for a list of those issues
-    url: https://github.com/Katsute/Mal4J/projects/10
+    url: https://github.com/KatsuteDev/Mal4J/projects/10
   - name: Documentation
     about: Check the documentation before posting an issue
     url: https://docs.katsute.dev/mal4j
   - name: FAQ
     about: Check frequently asked questions before posting an issue
-    url: https://github.com/Katsute/Mal4J/blob/main/faq.md
+    url: https://github.com/KatsuteDev/Mal4J/blob/main/faq.md
   - name: Discussions
-    url: https://github.com/Katsute/Mal4J/discussions
+    url: https://github.com/KatsuteDev/Mal4J/discussions
     about: Check here before posting an issue
   - name: Official MyAnimeList API Club
     url: https://myanimelist.net/clubs.php?cid=13727
