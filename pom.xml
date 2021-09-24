@@ -135,13 +135,13 @@
 
     <name>Mal4J</name>
     <description>Java wrapper for the official MyAnimeList API</description>
-    <url>https://github.com/Katsute/Mal4J</url>
+    <url>https://github.com/KatsuteDev/Mal4J</url>
 
     <licenses>
         <license>
             <name>GPL-2</name>
             <distribution>repo</distribution>
-            <url>https://github.com/Katsute/Mal4J/blob/main/LICENSE</url>
+            <url>https://github.com/KatsuteDev/Mal4J/blob/main/LICENSE</url>
         </license>
     </licenses>
 
@@ -158,9 +158,9 @@
     </developers>
 
     <scm>
-        <url>https://github.com/Katsute/Mal4J.git</url>
-        <connection>scm:git:git@github.com:Katsute/Mal4J.git</connection>
-        <developerConnection>scm:git:git@github.com:Katsute/Mal4J.git</developerConnection>
+        <url>https://github.com/KatsuteDev/Mal4J.git</url>
+        <connection>scm:git:git@github.com:KatsuteDev/Mal4J.git</connection>
+        <developerConnection>scm:git:git@github.com:KatsuteDev/Mal4J.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

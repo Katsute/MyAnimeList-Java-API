@@ -8,7 +8,7 @@
 - [ ] I have added/modified documentation.
 - [ ] I have added/modified test cases.
 
-**Workflow Run:** *The link to the MyAnimeList CI workflow run for your branch. Check [README](https://github.com/Katsute/Mal4J#remote-tests) for guide on remote tests.*
+**Workflow Run:** *The link to the MyAnimeList CI workflow run for your branch. Check [README](https://github.com/KatsuteDev/Mal4J#remote-tests) for guide on remote tests.*
 
 
 ### Changes Made

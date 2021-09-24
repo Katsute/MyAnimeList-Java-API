@@ -10,7 +10,7 @@ Compiled binaries can be found on Maven Central → [![Maven Central](https://im
 
 ## Local
 
-For projects built locally, jars can be found in releases → [![Releases](https://img.shields.io/github/v/release/Katsute/Mal4J)](https://github.com/Katsute/Mal4J/releases)
+For projects built locally, jars can be found in releases → [![Releases](https://img.shields.io/github/v/release/KatsuteDev/Mal4J)](https://github.com/KatsuteDev/Mal4J/releases)
 
 Mal4J is a standalone library and requires no additional dependencies.
 
@@ -26,7 +26,7 @@ If you want to quickly generate a token you can use this [python script](https:/
 
     You can create a new Client ID at [https://myanimelist.net/apiconfig](https://myanimelist.net/apiconfig).
 
-    ![Create ID](https://raw.githubusercontent.com/Katsute/Mal4J/main/setup_1.png)
+    ![Create ID](https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/setup_1.png)
 
 ## 2. Register application
 
@@ -34,13 +34,13 @@ If you want to quickly generate a token you can use this [python script](https:/
 
     For users using local server authentication ([below](#authenticate-with-client-id-using-a-local-server)) set this to `http://localhost:5050` or whatever port you are using (port must be between `1` - `65535`).
 
-    ![Register application](https://raw.githubusercontent.com/Katsute/Mal4J/main/setup_2.png)
+    ![Register application](https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/setup_2.png)
 
 ## 3. Retrieve Client ID
 
   - Copy **client ID** and **client secret** (if the application has a client secret), this will be used to generate an authorization code.
 
-    ![Copy client id and client secret](https://raw.githubusercontent.com/Katsute/Mal4J/main/setup_3.png)
+    ![Copy client id and client secret](https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/setup_3.png)
 
 ## 4. Authentication
 
